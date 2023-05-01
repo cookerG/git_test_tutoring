@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/a1111/Desktop/oss_tutoring",
+      "program": "/Users/a1111/Desktop/oss_tutoring/build/Debug/outDebug"
+    }
+  ]
+}
